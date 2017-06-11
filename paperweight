@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>HERE is the start of gitsups </title>
+<link ref="../paperweight.css" rel="stylesheet" type="text/css"/>
 <style>
 h1 { color:red;
 font-weight: 800;
