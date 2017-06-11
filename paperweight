@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title>HERE is the start of gitsups </title>
+<style>
+h1 { color:red;
+font-weight: 800;
+font-style: italic;
+</style>
+</head>
+<body>
+<h1>Gitsups the script</h1>
+</body>
+</html>
