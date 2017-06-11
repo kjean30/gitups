@@ -1,0 +1,4 @@
+1. create directory locally
+2. git init
+sign in with git config --global user.name"kjean30"
+sign in with git config --global user.email"email"
